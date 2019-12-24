@@ -1,5 +1,4 @@
 yarn build &&
-git branch gh-pages;
 git checkout gh-pages &&
 rm -rf src tests css js public *.json *.ico *.js *.css *.html *.png *.jpg *.gif *.jpeg *.lock *.sh *.md &&
 mv dist/* ./ &&
