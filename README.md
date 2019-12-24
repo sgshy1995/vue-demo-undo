@@ -1,5 +1,8 @@
 # vue-demo-3
 
+- 撤销与增加功能；显示历史记录。
+- 使用 watch，双异步操作。
+
 ## Project setup
 ```
 yarn install
